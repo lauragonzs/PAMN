@@ -11,6 +11,6 @@ Repositorio para la asignatura Programación de Aplicaciones Móviles Nativas (P
   <li><a href="./P7 - Codelab_PersistenciaDatos">Práctica 7: CodeLab - Persistencia de Datos</a></li>
   <li><a href="./P8 - FactoryMethod/P8-FactoryMethod.pdf">Práctica 8: Factory Method</a></li>
   <li><a href="./P9 - Codelab_CompilaIU">Práctica 9: CodeLab - Compila la IU de una app</a></li>
-  <li><a href="./P10 - Recomendaciones de Arquitectura para apps Android">Práctica 10: Recomendaciones de Arquitectura para apps Android</a></li>
-  <li><a href="./P11 - Calidad en el software">Práctica 11: Calidad en el Software</a></li>
+  <li><a href="./P10 - Recomendaciones de Arquitectura para apps Android/S8-RecomendacionesArquitecturaApps.pdf">Práctica 10: Recomendaciones de Arquitectura para apps Android</a></li>
+  <li><a href="./P11 - Calidad en el software/S9-CalidadSoftware.pdf">Práctica 11: Calidad en el Software</a></li>
 </ul>
